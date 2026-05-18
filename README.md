@@ -10,6 +10,20 @@
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 </div>
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="./docs/preview.png" alt="Dashboard" width="100%"/>
+  <p><em>Dashboard — KPIs de compras, pedidos recentes e status</em></p>
+</div>
+
+<table>
+  <tr>
+    <td><img src="./docs/orders.png" alt="Purchase Orders"/><br/><em>Pedidos de Compra com filtros de status</em></td>
+    <td><img src="./docs/vendors.png" alt="Vendors"/><br/><em>Gestão de Fornecedores</em></td>
+  </tr>
+</table>
+
 ## ✨ Features
 - 📋 **Purchase Order Management** — Full CRUD with DRAFT → PENDING → APPROVED/REJECTED workflow
 - 🏢 **Vendor Registry** — Manage suppliers with CNPJ, category, rating, and performance history
